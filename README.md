@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋, Abhit Rana
 #### Undergrad and Coder
