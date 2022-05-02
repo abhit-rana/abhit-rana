@@ -1,6 +1,6 @@
 ### Hi there 👋, Abhit Rana
 #### Undergrad and Coder
-![Undergrad and Coder](https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300)
+![Undergrad and Coder](![FruitLogo](https://user-images.githubusercontent.com/88608893/166239974-e3e4454f-da3c-4ff8-9671-275c6912eb9f.png))
 
 I'm Abhit Rana from India, and I am an undergrad @([IIITD]https://www.iiitd.ac.in/) I consider myself to be enjoying coding and bringing social change!!
 
