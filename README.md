@@ -2,7 +2,7 @@
 #### Undergrad and Coder
 
 
-I'm Abhit Rana from India, and I am an undergrad @([IIITD]https://www.iiitd.ac.in/) I consider myself to be enjoying coding and bringing social change!!
+I'm Abhit Rana from India, and I am an undergrad @([IIITD]https://www.iiitd.ac.in/) I consider myself to be enjoying Machine Learning. Deep Learning, coding and bringing social change!!
 
 Skills: Java / C / R / Python / HTML / PHP / CSS
 
