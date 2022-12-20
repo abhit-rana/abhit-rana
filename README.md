@@ -1,6 +1,4 @@
 ### Hi there 👋, Abhit Rana
-#### Undergrad and Coder
-
 
 I'm Abhit Rana from India, and I am an undergrad @ [IIITD](https://www.iiitd.ac.in/). I am passionate about Natural Language Processing and Deep Learning. I am always try to mix benefits of technology with the problems of society!
 
