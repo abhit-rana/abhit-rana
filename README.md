@@ -1,13 +1,13 @@
 ### Hi there 👋, Abhit Rana
 
-I'm an undergrad @ [IIITD](https://www.iiitd.ac.in/). Passionate about Natural Language Processing and Deep Learning. I always try to mix benefits of technology with the problems of society and converting them into business Idea!
+I'm an undergrad @ [IIITD](https://www.iiitd.ac.in/). Passionate about Natural Language Processing and Deep Learning. I always try to mix technology's benefits with society's problems and convert them into business Ideas!
 
 Insights in My Life
 
-- 🔭 I’m currently working on Startup Idea, and Personal Brand on Social Media
+- 🔭 I’m currently working on Startup Idea - [Froot: Cultivating Future Fruits](https://sites.google.com/view/froot-psc2), and Personal Brand on Social Media
 - 🌱 I’m currently learning Communication, Machine Learning, NLP, and How to Build a Startup
-- 👯 I’m looking some people who is willing to work in a Machine Learning based or any startup Idea
-- 💬 Ask me about Moral Values, and Spirituality
+- 👯 I’m looking for some people who are willing to work in Machine Learning based or any startup Idea
+- 💬 Ask me about Moral Values and Spirituality
 - ⚡ Reading Book: [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.in/Startup-Owner%E2%80%B2s-Manual-Step-Step/dp/1119690684)
 
 
@@ -23,7 +23,7 @@ Insights in My Life
 * Programming: Java, Python (Pandas, PyTorch, NumPy, Scikit‑learn, Hugging‑Face, Sentence‑Transformer, etc.), R(ggplot2), Prolog, PHP, C,
 HTML/CSS, SQL, Linux, LATEX(Overleaf), Microsoft Office
 * Non-Programming: Content Creation, Digital Marketing, Cold Messaging, Entrepreneurship, UML‑class and UML‑Use Case Diagrams, Flow Diagrams, Documentation, Engaging Presentation, Report Writing, Presentation Making
-* Soft-Skills: Communication, Cold Calling, Connecting With People, Listening and Understanding People, Teamwork, Problem‑solving
+* Soft Skills: Communication, Cold Calling, Connecting With People, Listening and Understanding People, Teamwork, Problem‑solving
 
 ## GitHub Stats
 
