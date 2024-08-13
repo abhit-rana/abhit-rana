@@ -2,15 +2,6 @@
 
 I'm an undergrad @ [IIITD](https://www.iiitd.ac.in/). Passionate about Natural Language Processing and Deep Learning. I always try to mix technology's benefits with society's problems and convert them into business Ideas!
 
-Insights in My Life
-
-- 🔭 I’m currently working on Startup Idea - [Froot: Cultivating Future Fruits](https://sites.google.com/view/froot-psc2), and Personal Brand on Social Media
-- 🌱 I’m currently learning Communication, NLP, and How to Build a Startup
-- 👯 I’m looking for some people who are willing to work in Machine Learning based or any startup Idea
-- 💬 Ask me about Moral Values and Spirituality
-- ⚡ Reading Book: [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.in/Startup-Owner%E2%80%B2s-Manual-Step-Step/dp/1119690684)
-
-
 ### Find me all around the web:
 
 * [Gmail](abhit.tech@gmail.com)
